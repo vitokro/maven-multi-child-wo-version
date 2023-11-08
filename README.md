@@ -1,0 +1,1 @@
+# maven-multi-child-wo-version
